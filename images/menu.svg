@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.579 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #003;
+      }
+    </style>
+  </defs>
+  <g id="menu" transform="translate(-1108 -63)">
+    <g id="Group_1" data-name="Group 1" transform="translate(1198 1138) rotate(-90)">
+      <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-1" cx="2.368" cy="2.368" r="2.368" transform="translate(1060 -90)"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-1" cx="2.368" cy="2.368" r="2.368" transform="translate(1060 -78.158)"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" class="cls-1" cx="2.368" cy="2.368" r="2.368" transform="translate(1070.263 -83.684)"/>
+    </g>
+  </g>
+</svg>
