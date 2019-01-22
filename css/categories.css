@@ -1,0 +1,124 @@
+.shopping{
+      font-size: 24px;
+      font-family:'Ubuntu', sans-serif; 
+      text-align: center;
+      margin-top: 20px;
+      color: white;
+}
+.ur{
+    margin-left:560px;
+    display: block;
+    margin-right: 560px;
+    border-bottom: 1px solid;
+}
+.color{
+    background-color: #000033;
+    height: 100vh;
+
+}
+/* .goods{
+    background-image: url(../images/Path\ 33.svg);
+    background-repeat: no-repeat;
+    height: 70vh;
+    position: relative; 
+} */
+ul {
+    top:80px;
+    position: absolute;
+    list-style-image:url("/images/star.png");  
+}
+.cat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+ul li {
+    list-style: none;
+    font-size: 25px;
+    font-family:'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+li a{
+    color: white;
+    
+}
+li a:hover{
+    color: #FF0066;
+    text-decoration: none;
+
+}
+input{
+    border:1px solid #FF5599;
+    background-color: transparent;
+    border-radius: 7px 0px 0x 7px;
+    padding: 5px;
+}
+::placeholder{
+    color: #ffffff;
+    opacity:1;
+}
+.input-container{
+    display: flex;
+}
+.icon{
+    background: linear-gradient(180deg, #FF5599,#FF0066);
+    color: #ffffff;
+    text-align: center;
+    padding:10px;
+    border-radius: 0px 7px 7px 0px;
+}
+   
+@media (min-width: 320px){
+    .removePadding{
+        margin: 0;
+        padding: 0;
+    }
+    .fontSize{
+        font-size: 1rem;
+    }
+    .cats{
+        margin-top: -70px;
+    }
+    .explore{
+        margin-top: -40px;
+    }
+}
+@media (min-width: 600px){
+    .removePadding{
+        margin: unset;
+        padding: unset;
+    }
+    .fontSize{
+        font-size: unset;
+    }
+    .cats{
+        margin-top: unset;
+    }
+    .explore{
+        margin-top: unset;
+    }
+}
+
+#explorebutton{
+    background-color: #FF0066;
+    border-color: transparent;
+    width: 120px;
+    display: inline-block;
+    font-size: 12px;
+    font-family: 'Cabin', sans-serif;
+    border-radius: 15px;
+    color:white;
+    height: 30px;
+    
+}
+.simply{
+    font-size: 24px;
+    font-family: 'Cabin', sans-serif;
+    color: white;
+    margin-left: 70px;
+    font-weight: normal;
+}
+.formcontrol{
+    background-color: transparent;
+    width: 300px;
+}
