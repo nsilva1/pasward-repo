@@ -434,4 +434,8 @@ body h1, h2, h3, h4, h5, h6{
       top: -152px;
       left: 30px;
     }
+
+    .cabin{
+      font-family: 'Cabin', sans-serif;
+    }
   }
