@@ -162,8 +162,7 @@ input:focus{
   justify-content: space-between;
 }
 
-.input-group{
-}
+
 
 
 .form-control{
@@ -171,9 +170,7 @@ input:focus{
   border-left-color: #fff;
 }
 
-.input-group{
 
-}
 
 .input-group-addon{
   background-color: #fff;
